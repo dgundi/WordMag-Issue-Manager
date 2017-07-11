@@ -1,0 +1,1 @@
+# WordMag-Issue-Manager

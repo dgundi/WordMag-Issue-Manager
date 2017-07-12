@@ -5,7 +5,10 @@ A WordPress Plugin that allows you to manage monthly publication covers using a 
 ## Built With
 
 [WordPress Settings API](https://codex.wordpress.org/Settings_API)
+
 PHP 5
+
 [Jquery](https://jquery.com/)
+
 [Jquery UI - Sortable ](https://jqueryui.com/sortable/)
 
